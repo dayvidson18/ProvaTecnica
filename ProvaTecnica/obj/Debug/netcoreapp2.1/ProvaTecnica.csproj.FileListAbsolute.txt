@@ -1,0 +1,11 @@
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\bin\Debug\netcoreapp2.1\ProvaTecnica.deps.json
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\bin\Debug\netcoreapp2.1\ProvaTecnica.runtimeconfig.json
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\bin\Debug\netcoreapp2.1\ProvaTecnica.runtimeconfig.dev.json
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\bin\Debug\netcoreapp2.1\ProvaTecnica.dll
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\bin\Debug\netcoreapp2.1\ProvaTecnica.pdb
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.csprojAssemblyReference.cache
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.AssemblyInfoInputs.cache
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.AssemblyInfo.cs
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.dll
+C:\Users\Dayvidson\source\repos\Benner\ProvaTecnica\ProvaTecnica\obj\Debug\netcoreapp2.1\ProvaTecnica.pdb
